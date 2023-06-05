@@ -1,22 +1,23 @@
 .section {
   background-color: #f8f6f6;
-   
+  font-size: 13px;
+  font-family: BentonSansBBVA-Book,sans-serif;
+  font-weight: 500;
+  
 
   &__buttonGroup {
     background-color: #f8f6f6;
-    margin:0 5%;
-    color: rgb(187, 183, 183);
+    margin: 0 15%;
+    color: rgb(179, 175, 175);
     display: flex;
     justify-content: flex-end ;
-    align-items: flex-end;    
+    align-items: center;    
     border: none;
     outline: none ;
     padding: 5px 10px;
-    margin: 5px;
+  
 
-    :hover{
-      color: #888080;
-    }
+    
   }
    
 }

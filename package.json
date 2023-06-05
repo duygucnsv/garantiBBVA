@@ -1,9 +1,12 @@
 {
-  "name": "greaterroads",
-  "homepage": "http://greaterroads.com",
+  "name": "garantiBBVA",
+  "homepage": "http://garantiBBVA.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@chakra-ui/react": "^2.7.0",
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
     "@reduxjs/toolkit": "^1.8.5",
     "@sweetalert2/themes": "^5.0.12",
     "@testing-library/jest-dom": "^5.16.5",
@@ -14,6 +17,7 @@
     "buffer": "^6.0.3",
     "encrypt-storage": "^2.12.11",
     "formik": "^2.2.9",
+    "framer-motion": "^10.12.16",
     "js-file-download": "^0.4.12",
     "moment": "^2.29.4",
     "react": "^18.2.0",
